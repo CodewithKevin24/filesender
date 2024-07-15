@@ -1,0 +1,12 @@
+{
+  "LOG_CHANNEL_ID": "-1002045621703",
+  "TOKEN": "6573119473:AAE8k06J9xYHVhBkY21phHRNQI7qBwGmBoA",
+  "PRIVATE_GROUP_ID": "-1001997906427",
+  "FORCE_SUB_CHANNEL": "-1002026244362",
+  "CONSOLE_CHANNEL_ID": "-1002074199343",
+  "ALLOWED_PRIVATE_CHANNEL_IDS": "-1001996992323",
+  "OWNER_ID": "898142325",
+  "ADMINS": "1297868490,6038004934,6210430978,6359870787,898142325",
+  "WEBHOOK_URL": "f8969e1a-8b2c-4905-8ebe-0f872109878f-00-2euzogp2lcteo.sisko.replit.dev/",
+  "MONGO_URI": "mongodb+srv://DatabaseSenderBot:12345@databasesenderrbot.pexhfof.mongodb.net/?retryWrites=true&w=majority&appName=DatabaseSenderrBot"
+}
